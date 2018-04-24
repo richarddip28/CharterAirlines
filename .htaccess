@@ -1,0 +1,3 @@
+AddType application/x-httpd-php .htm .html
+AddHandler application/x-httpd-php7 .html .htm .php   
+AddHandler application/x-httpd-php5 .html .htm .php   
